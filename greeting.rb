@@ -1,3 +1,3 @@
-def greetimg
+def greeting
   puts "Hello World"
 end
